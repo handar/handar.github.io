@@ -246,6 +246,7 @@ figure {
       position: relative;
       overflow: visible; }
       #colorlib-hero .flexslider .slides li {
+        background-image: url("https://i.imgur.com/wNqSPBo.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: bottom center;
